@@ -23,7 +23,6 @@ The application is ideal for researchers, analysts, or anyone who wants to **con
 ## Repository Contents
 
 - `assets/`: Sample documents for testing and demo purposes.
-- `.streamlit/secrets.toml`: Stores your Google Gemini API key.
 - `main.py`: Complete Streamlit application source code.
 
 ## Getting Started
@@ -47,5 +46,6 @@ GEMINI_API_KEY = "YOUR_API_KEY_HERE"
 streamlit run main.py
 ```
 Open your browser and navigate to the provided Streamlit URL.
+
 
 Upload a `.txt` file and click **"Extract Knowledge Graph"** to begin.
