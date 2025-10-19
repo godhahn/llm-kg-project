@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This **Streamlit web** application automatically extracts structured knowledge from unstructured text documents and visualizes it as an **interactive knowledge graph**. Powered by **Google's Gemini LLM**, the app uses a multi-step AI pipeline to identify entities, relationships, and even personality traits of individuals mentioned in the text.
+This Streamlit web application extracts structured knowledge from unstructured text documents and visualizes it as an **interactive knowledge graph**. Powered by Google's Gemini LLM, the app uses a **4-step LLM pipeline** to identify entities, relationships, and even personality traits of individuals mentioned in the text.
 
 The application is ideal for researchers, analysts, or anyone who wants to **convert raw text into clear, visual insights** through knowledge graph exploration.
 
@@ -49,3 +49,4 @@ Open your browser and navigate to the provided Streamlit URL.
 
 
 Upload a `.txt` file and click **"Extract Knowledge Graph"** to begin.
+
