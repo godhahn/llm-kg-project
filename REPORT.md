@@ -45,10 +45,10 @@ Justification:
 
 Approach: 4-step sequential pipeline:
 
-1. Entity Extraction: Identify and normalize nodes.
-2. Personality Analysis: Assign personality traits to `PERSON` nodes.
-3. Relationship Extraction: Identify edges between confirmed nodes.
-4. Quality Scoring: Evaluate the graph against the source text.
+1. Entity Extraction – Detects people, organizations, locations, events, and concepts.
+2. Personality Analysis – Assigns personality traits to `PERSON` nodes.
+3. Relationship Extraction – Identifies connections between entities.
+4. Graph Quality Scoring – Evaluates correctness and completeness of the graph.
 
 Justification:
 
@@ -73,4 +73,5 @@ Justification:
 
 - LLM Reliability: Occasional misinterpretations or hallucinations may occur.
 - Graph Representation: Structured triples cannot capture all textual nuance.
+
 - Input Restrictions: Limited to `.txt` files; large documents may require chunking.
