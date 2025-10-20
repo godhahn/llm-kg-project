@@ -73,5 +73,11 @@ Justification:
 
 - LLM Reliability: Occasional misinterpretations or hallucinations may occur.
 - Graph Representation: Structured triples cannot capture all textual nuance.
-
 - Input Restrictions: Limited to `.txt` files; large documents may require chunking.
+
+## 7. Future Enhancements
+- Graph Database Integration (Neo4j) to allow persistent KG storage and graph querying via Cypher.
+- RAG-based Context Injection, enabling the LLM to ground relationship extraction on accumulated knowledge rather than single prompts.
+- Hybrid NLP+LLM Entity Detection, combining spaCy-style named entity recognition with LLM reasoning for better consistency.
+- Concurrency and Session Caching when deployed on Streamlit Cloud to improve response time for repeated usage.
+
