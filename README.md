@@ -13,8 +13,8 @@ The application is ideal for researchers, analysts, or anyone who wants to **con
 ## Demo Video
 
 <div align="center">
-  <a href="https://www.loom.com/share/1f4bb92c6f1f453992bbfbc33fe24db9?sid=42217393-828f-4a13-9851-cb8aaff405e8" target="_blank">
-    <img src="https://www.loom.com/share/1f4bb92c6f1f453992bbfbc33fe24db9?sid=42217393-828f-4a13-9851-cb8aaff405e8" width="480" alt="Spark Intro">
+  <a href="https://www.loom.com/share/1f4bb92c6f1f453992bbfbc33fe24db9" target="_blank">
+    <img src="https://cdn.loom.com/sessions/thumbnails/1f4bb92c6f1f453992bbfbc33fe24db9-00001.png" width="480" alt="Demo Video">
   </a>
 </div>
 
@@ -57,5 +57,6 @@ Open your browser and navigate to the provided Streamlit URL.
 
 
 Upload a `.txt` file and click **"Extract Knowledge Graph"** to begin.
+
 
 
