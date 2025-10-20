@@ -10,6 +10,14 @@ The application is ideal for researchers, analysts, or anyone who wants to **con
 [Shared LLM Session](https://gemini.google.com/share/794002dc6157)
 - For a deeper dive into design choices, insights, and limitations:  [Report](REPORT.md)
 
+## Demo Video
+
+<div align="center">
+  <a href="https://www.loom.com/share/1f4bb92c6f1f453992bbfbc33fe24db9?sid=42217393-828f-4a13-9851-cb8aaff405e8" target="_blank">
+    <img src="https://www.loom.com/share/1f4bb92c6f1f453992bbfbc33fe24db9?sid=42217393-828f-4a13-9851-cb8aaff405e8" width="480" alt="Spark Intro">
+  </a>
+</div>
+
 ## Features
 
 - Upload `.txt` files to automatically generate a knowledge graph.
@@ -49,4 +57,5 @@ Open your browser and navigate to the provided Streamlit URL.
 
 
 Upload a `.txt` file and click **"Extract Knowledge Graph"** to begin.
+
 
